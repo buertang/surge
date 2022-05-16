@@ -28,8 +28,8 @@ $httpClient.get(url, function(error, response, data){
     if (i == list.length - 1) {
      $done({
        title: "疫情   :   新增 | 现存"+ "   "+nowtime(),
-       icon:"filemenu.and.cursorarrow",
-       "icon-color":"#5AC8FA",
+       icon:"lung",
+       "icon-color":"#28C818",
        content: ala.replace(/\n$/, "")
      });
     }
