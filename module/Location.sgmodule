@@ -12,3 +12,4 @@ Location Services GeoCountryCode = type=http-request, pattern=^https?:\/\/gspe1-
 
 [MITM]
 hostname = %APPEND% gspe1-ssl.ls.apple.com
+
