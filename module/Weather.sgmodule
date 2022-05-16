@@ -16,3 +16,4 @@ Apple Weather Map = type=http-request, pattern=^https?:\/\/weather-map\.apple\.c
 
 [MITM]
 hostname = %APPEND% weather-data.apple.com, weather-map.apple.com
+
