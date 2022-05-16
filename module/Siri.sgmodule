@@ -19,3 +19,4 @@ Siri Infomation Card = type=http-response, pattern=^https?:\/\/api.*\.smoot\.app
 
 [MITM]
 hostname = %APPEND% api*.smoot.apple.com, api*.smoot.apple.cn
+
