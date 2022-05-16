@@ -79,7 +79,7 @@ function icon_now(num){
   }else if(num==0){
     return "gift"
   }else{
-    return "snail"
+    return "tortoise"
   }
 }
 
@@ -101,7 +101,7 @@ function title_random(num){
     7:"只有摸鱼才是赚老板的钱",
     8:"一起摸鱼吧",
     9:"摸鱼中，期待下一个假日",
-    10: "小蜗牛慢慢爬"
+    10: "都给我爬"
   };
   return num==0?"节日快乐，万事大吉":dic[r]
 }
